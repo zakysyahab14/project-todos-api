@@ -31,3 +31,9 @@
     transform: rotate(360deg);
   }
 }
+
+.HoverDelete:hover {
+  color: red;
+  opacity: 50%;
+  
+}
